@@ -1,5 +1,4 @@
-Instructions for implementing an offline study in LabVanced
-
+#LabVanced Offline Study Download Instructions
 
 1. Log into your account ONLINE
 2. Add the study that has been shared with you to MyStudies
