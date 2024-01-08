@@ -1,4 +1,4 @@
-#LabVanced Offline Study Download Instructions
+LabVanced Offline Study Download Instructions
 
 1. Log into your account ONLINE
 2. Add the study that has been shared with you to MyStudies
